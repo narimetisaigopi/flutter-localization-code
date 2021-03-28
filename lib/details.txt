@@ -1,0 +1,5 @@
+1) Create a class which extends "ChangeNotifier"
+    and here we call "notifyListeners()" whenever change happens 
+2) Initializing and creating Provider in main class 
+    which is parent class widget to all the widgets in the app.
+3) Creating object for the provider in the Widget (Screens) whereever you want.
